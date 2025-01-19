@@ -1,2 +1,2 @@
-# Health-Insurance-Premium-Prediction-
+# Health-Insurance-Premium-Prediction
 ML project for health insurance premium prediction
